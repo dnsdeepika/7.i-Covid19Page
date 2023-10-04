@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.about-bg-container {
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 20px;
+    border-width: 70px;
+    border-radius: 20px;
+    border-color: #a368fc;
+}
+.about-heading {
+    font-family: "roboto";
+    color: #323f4b;
+    font-size: 16px;
+}
+.about-button {
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: #0967d2;
+    font-size: 12px;
+    width: 89px;
+    padding: 5px;
+    color: #ffffff;
+}
+.covid-card {
+    border-radius: 12px;
+    padding: 25px;
+    margin: 10px;
+    background-color: #a368fc;
+}
+.covid-text-container {
+    background-color: #0967d219;
+}
+.cord-image {
+    height: 48px;
+    width: 48px;
+    margin: 10px;
+}
+.covid-heading {
+    font-family: "roboto";
+    font-size: 16px;
+    font-weight: 500;
+    color: #323f4b;
+    padding: 10px;
+}
+.covid-description {
+    color: #707070;
+    font-size: 14px;
+    font-weight: 500;
+}
+.dry-card {
+    background-color: #3ebd93;
+}
+.high-card {
+    background-color: #e668a7;
+}
+.head-card {
+    background-color: #a368fc;
+}
+.spread-text-container {
+    background-color: #e13d3919;
+}
